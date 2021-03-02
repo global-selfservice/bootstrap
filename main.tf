@@ -1,5 +1,5 @@
 module "terraform" {
-  source = "github.com/global-devops-terraform/terraform?ref=v1.3.1"
+  source = "github.com/global-devops-terraform/terraform?ref=v1.4.0"
 
   bucket_name = var.bucket_name
 }
